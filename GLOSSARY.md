@@ -1,6 +1,6 @@
-# QuantumSea 英文术语表 · v1.4
+# QuantumSea 英文术语表 · v1.5
 
-**状态**：修订冻结版（2026-11-12，v1.4 确认潮汐补充调度）  
+**状态**：修订冻结版（2026-11-12，v1.5 补注 ATTUNE 官方域名）  
 **适用范围**：《换季》、World Code / 引擎、ATTUNE、余岸观测站、官网、Steam 商店页、代码与技术文档。  
 **用途**：统一中文概念与英文名称，避免不同产品、文本和代码各自发明译名。
 
@@ -90,7 +90,7 @@
 | 中文 | 正式英文 | 注记 |
 | --- | --- | --- |
 | 拉面换来的引擎 | **The Engine That Cost a Bowl of Ramen** | 使用 `a bowl`，不用 `one bowl`；不要简写为 `The Ramen Engine`。 |
-| 合拍 | **ATTUNE** | 产品名固定全大写；作为普通英语动词时写作 `attune`。不要将其扩展成未经确认的首字母缩写。 |
+| 合拍 | **ATTUNE** | 产品名固定全大写；作为普通英语动词时写作 `attune`。不要将其扩展成未经确认的首字母缩写。官方域名为 `attunecut.com`：后缀 `cut` 只是注册可用性的结果，不属于品牌名，**不得写作 `ATTUNE CUT`**，也不要在文案里把域名当作品牌名使用。 |
 | 每天happy | **Daily Happy** | 产品名固定为 `Daily Happy`，不使用 `Meitian Happy`、`MeitianHappy` 或全小写形式；域名 `meitianhappy.com` 保持不变。 |
 | 分子实验室 | **Molecular Lab** | 网页实验台的名称，固定为 `Molecular Lab`；不要写成 `Molecular Laboratory`、`Lab` 或全大写 `MOLECULAR LAB`（全大写仅可用于版式标签，正文与代码一律用 `Molecular Lab`）。 |
 | 余岸观测站 | **The Yu'an Observatory** | 固定拼写。不要写成 `Yu An Observatory` 或 `Yu'an Observation Station`。 |
@@ -258,3 +258,4 @@
 | v1.2 | 2026-11-12 | 增补产品名：每天happy = `Daily Happy`（与 ATTUNE、The Yu'an Observatory 并列）。其余术语无变更。 |
 | v1.3 | 2026-11-12 | 增补产品名：分子实验室 = `Molecular Lab`。四个产品名至此齐备。 |
 | v1.4 | 2026-11-12 | 确认潮汐补充的调度方式为 `Demand-Driven and Cyclical Replenishment`：按需响应与周期节律并存，周期性随宇宙演化时间增长而增强，但不取代按需响应。并从“尚未定稿”移入正式术语表。 |
+| v1.5 | 2026-11-12 | 补注 ATTUNE 的官方域名为 `attunecut.com`，明确 `cut` 不属于品牌名。 |
