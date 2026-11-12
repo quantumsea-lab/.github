@@ -1,6 +1,6 @@
-# QuantumSea 英文术语表 · v1.1
+# QuantumSea 英文术语表 · v1.2
 
-**状态**：修订冻结版（2026-11-12）  
+**状态**：修订冻结版（2026-11-12，v1.2 增补产品名）  
 **适用范围**：《换季》、World Code / 引擎、ATTUNE、余岸观测站、官网、Steam 商店页、代码与技术文档。  
 **用途**：统一中文概念与英文名称，避免不同产品、文本和代码各自发明译名。
 
@@ -90,6 +90,7 @@
 | --- | --- | --- |
 | 拉面换来的引擎 | **The Engine That Cost a Bowl of Ramen** | 使用 `a bowl`，不用 `one bowl`；不要简写为 `The Ramen Engine`。 |
 | 合拍 | **ATTUNE** | 产品名固定全大写；作为普通英语动词时写作 `attune`。不要将其扩展成未经确认的首字母缩写。 |
+| 每天happy | **Daily Happy** | 产品名固定为 `Daily Happy`，不使用 `Meitian Happy`、`MeitianHappy` 或全小写形式；域名 `meitianhappy.com` 保持不变。 |
 | 余岸观测站 | **The Yu'an Observatory** | 固定拼写。不要写成 `Yu An Observatory` 或 `Yu'an Observation Station`。 |
 
 ---
@@ -252,3 +253,4 @@
 | --- | --- | --- |
 | v1 | 2026-11-12 | 首版术语冻结：Tear Bubble / Cosmic Core / Buzhou Rift / Tidal Cloud Space 等核心名称确立。 |
 | v1.1 | 2026-11-12 | 修正四个泪泡与 Cosmic Core 的层级表达；明确 Buzhou Rift 与 Tidal Cloud Space 的连接关系；统一 Replenishment 用语；补入五行路由与四相交换的简要英文释义；限定 Solidification 与 Destabilization 的语义边界。 |
+| v1.2 | 2026-11-12 | 增补产品名：每天happy = `Daily Happy`（与 ATTUNE、The Yu'an Observatory 并列）。其余术语无变更。 |
